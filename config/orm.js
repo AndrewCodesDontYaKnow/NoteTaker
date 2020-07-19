@@ -17,8 +17,8 @@ class ORM  {
       }
       return questionMarks.join(', ');
     }
-
-    selectNote(value)  {
+    
+    showNote(value)  {
         console.log(`orm.selectNote was fired off!`)
         // set the queryString to select all from a table
         const queryString = 'SELECT * FROM ?';
