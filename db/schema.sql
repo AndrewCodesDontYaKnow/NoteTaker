@@ -1,7 +1,9 @@
 DROP DATABASE IF EXISTS notes_db;
 CREATE DATABASE notes_db;
 
--- tells mysql that we are going to start interacting with library_db
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+flush privileges;
+
 USE notes_db;
 
 CREATE TABLE notes (
