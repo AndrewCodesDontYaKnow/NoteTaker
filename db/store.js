@@ -16,7 +16,7 @@ class Store {
   }
 
   addNote(note) {
-    return orm.create("notes", ['title', 'body'], note)
+    return orm.create("notes", ['title', 'text'], note)
   }
 
   removeNote(id) {

@@ -27,7 +27,7 @@ class ORM  {
     create(table, columns, values) {
       const queryString = `INSERT INTO ?? (${columns.join(', ')}) VALUES (${this.printQuestionMarks(values.length, 'vals')})`;
   
-      return this.connection.query(queryString, [table, ...values])
+      return this.connection.query(queryString, [table,values])
     }
   
     delete(table, cols, value){
