@@ -16,7 +16,9 @@ class Store {
   }
 
   addNote(note) {
-    return orm.create("notes", ['title', 'text'], note)
+    console.log("writing new note...")
+    console.log(note);
+    return orm.create("notes", ["title", "text"], note)
   }
 
   removeNote(id) {
