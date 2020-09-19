@@ -32,12 +32,10 @@ URL: https://vast-shore-64434.herokuapp.com/
   Fork the repo and submit potential changes for future development.
   
   ## <a id='Credits' style='color:white;'>Credits</a>
-  Andrew Smith
-  
+  Andrew Smith<br/>
   GitHub Username: AndrewCodesDontYaKnow <br>Github Profile: <a href='https://github.com/AndrewCodesDontYaKnow'>https://github.com/AndrewCodesDontYaKnow</a>
   
-  Ryan Baird
-  
+  Ryan Baird<br/>
   GitHub Username: Rjbaird <br>Github Profile: <a href='https://github.com/Rjbaird'>https://github.com/Rjbaird</a>
   
   ## <a id='Questions' style='color:white;'>Questions</a>
