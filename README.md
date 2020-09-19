@@ -33,9 +33,11 @@ URL: https://vast-shore-64434.herokuapp.com/
   
   ## <a id='Credits' style='color:white;'>Credits</a>
   Andrew Smith
+  
   GitHub Username: AndrewCodesDontYaKnow <br>Github Profile: <a href='https://github.com/AndrewCodesDontYaKnow'>https://github.com/AndrewCodesDontYaKnow</a>
   
   Ryan Baird
+  
   GitHub Username: Rjbaird <br>Github Profile: <a href='https://github.com/Rjbaird'>https://github.com/Rjbaird</a>
   
   ## <a id='Questions' style='color:white;'>Questions</a>
